@@ -1,0 +1,28 @@
+.site-logo{
+    display: block;
+    width: 90%;
+    height: auto;
+    margin-left: 5%;
+}
+
+.menu-block{
+    width: 90%;
+    margin-left: 5%;
+}
+
+.menu-general-text{
+    font-family: Comic Sans MS, Comic Sans, cursive;
+    font-size: large;
+}
+
+.menu-link{
+    color: black;
+    text-decoration: none;
+    font-size: large;
+    font-family: Comic Sans MS, Comic Sans, cursive;
+}
+
+.additional-menu-information{
+    width: 90%;
+    margin-left: 5%;
+}

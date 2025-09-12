@@ -1,0 +1,15 @@
+.content-title{
+    font-family: Comic Sans MS, Comic Sans, cursive;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.main-block-content{
+    width: 90%;
+    margin-left: 5%;
+}
+
+.content-text{
+    font-size: large;
+    font-family: Comic Sans MS, Comic Sans, cursive;
+}

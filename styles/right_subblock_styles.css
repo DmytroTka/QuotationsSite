@@ -1,0 +1,10 @@
+.right-subblock-content{
+    width: 90%;
+    margin-left: 5%;
+}
+
+.thinker-photo, .source-photo{
+    width: 100%;
+    height: auto;
+    margin-top: 10px;
+}
