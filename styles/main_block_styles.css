@@ -12,4 +12,12 @@
 .content-text{
     font-size: large;
     font-family: Comic Sans MS, Comic Sans, cursive;
+
+}
+
+.click-image{
+    width: 400px;
+    height: 250;
+    margin-left: calc(50% - 200px);
+    display: block;
 }
